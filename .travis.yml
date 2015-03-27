@@ -9,7 +9,7 @@ python:
 env:
     - pep8
 before_install:
-  - sudo apt-get install python-pip
+  - sudo apt-get install python-pip python-setuptools python-virtualenv python-dev libpq-dev libmysqlclient-dev
   - pip install tox
 
 matrix:
