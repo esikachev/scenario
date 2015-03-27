@@ -1,6 +1,8 @@
 OpenStack Data Processing ("Sahara") project
 ============================================
 
+[![Build Status](https://travis-ci.org/esikachev/scenario.svg?branch=test_cases)](https://travis-ci.org/esikachev/scenario)
+
 Sahara at wiki.openstack.org: https://wiki.openstack.org/wiki/Sahara
 
 Launchpad project: https://launchpad.net/sahara
@@ -13,8 +15,3 @@ Quickstart guide: http://docs.openstack.org/developer/sahara/devref/quickstart.h
 
 How to participate: http://docs.openstack.org/developer/sahara/devref/how_to_participate.html
 
-
-License
--------
-
-Apache License Version 2.0 http://www.apache.org/licenses/LICENSE-2.0
