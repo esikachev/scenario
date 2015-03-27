@@ -1,8 +1,6 @@
 OpenStack Data Processing ("Sahara") project
 ============================================
 
-Link on TravisCI: https://travis-ci.org/esikachev/scenario.svg?branch=test_cases
-
 Sahara at wiki.openstack.org: https://wiki.openstack.org/wiki/Sahara
 
 Launchpad project: https://launchpad.net/sahara
